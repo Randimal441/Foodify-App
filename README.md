@@ -13,3 +13,5 @@ Once logged in, users go to the Home Page, which serves as the central hub. A na
 2.	Add Recipe – Chefs can contribute their recipes by filling in details like title, ingredients, direction, time, and images. A dedicated add icon on the main interface makes this process quick and simple.
 3.	Notifications – Users receive important updates, including recipe recommendations, alerts, and follower activity.
 4.	Profile – Displays user or chef details, uploaded recipe count, follower count, and following count. Chefs can manage their recipes and track their community growth.
+
+Check This Link - https://www.figma.com/design/PcCEkXvKVTThSCB410KUQF/Untitled?m=auto&t=FNyZurJRTJywTpaj-1
