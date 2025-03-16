@@ -14,4 +14,4 @@ Once logged in, users go to the Home Page, which serves as the central hub. A na
 3.	Notifications – Users receive important updates, including recipe recommendations, alerts, and follower activity.
 4.	Profile – Displays user or chef details, uploaded recipe count, follower count, and following count. Chefs can manage their recipes and track their community growth.
 
-Check This Link - https://www.figma.com/design/PcCEkXvKVTThSCB410KUQF/Untitled?m=auto&t=FNyZurJRTJywTpaj-1
+Check This Link - https://www.figma.com/proto/PcCEkXvKVTThSCB410KUQF/Untitled?node-id=8-586&p=f&t=5LkFdzgPTtdVRpzD-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=8%3A586
