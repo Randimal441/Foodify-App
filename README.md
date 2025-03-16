@@ -1,5 +1,6 @@
 # Foodify-App
 ................Foodify.................. 
+
 Foodify is a user-friendly recipe-sharing app designed for food lovers and chefs to explore, create, and share recipes effortlessly. Whether you're a home cook seeking inspiration or a professional chef to showcase your culinary skills, Foodify provides a seamless and engaging experience.
 
 $-----User Onboarding and Authentication
